@@ -1,5 +1,5 @@
 # Responsive Portfolio Kevin Yanuar
-## [Watch it on youtube](https://youtu.be/Y4-xMb-eHOQ)
+## [Watch it on youtube] Video Tutorial -> (https://youtu.be/Y4-xMb-eHOQ)
 ### Responsive Portfolio Website Kevin Yanuar
 
 - Responsive Portfolio Website Design Using HTML CSS & JavaScript
@@ -13,4 +13,4 @@
 
 💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
 
-![preview img](/preview.png)
+//![preview img](/preview.png)
