@@ -1,4 +1,4 @@
-# Responsive Portfolio Website Patrick
+# Responsive Portfolio Kevin Yanuar
 ## [Watch it on youtube](https://youtu.be/Y4-xMb-eHOQ)
 ### Responsive Portfolio Website Kevin Yanuar
 
